@@ -1,8 +1,17 @@
 # AI-roadmap
-A beginner's roadmap to getting started in Machine Learning.
+A beginner's roadmap to getting started in Machine Learning, by COPS IIT(BHU).
 
+# Motivation
+If you do a quick google search: "How can I learn Machine Learning", you will receive a lot of content. Most of this content will probably not be well suited for you, possibly because such content is mostly created for a large audience. (so you may find it boring/too slow, and sometimes misleading)
+
+We, however have been in the same place as you are now (freshmen or sophomores), so we know exactly what you need to know, and what you might be interested in.
+
+So, here is a guide to all the resources you will require to properly get introduced to machine learning and artificial intelligence. Try to follow the sequence, and skip whatever you already know.
+
+The list is very selective. There may be a lot of resources out there, but we feel that this list will be the best for you, in terms of content and difficulty.
 # Table of Contents:
 - [AI-roadmap](#ai-roadmap)
+- [Motivation](#motivation)
 - [Table of Contents:](#table-of-contents)
 - [1. Before we start:](#1-before-we-start)
   - [1.1. Preparing your Machine (not compulsory, but recommended)](#11-preparing-your-machine-not-compulsory-but-recommended)
