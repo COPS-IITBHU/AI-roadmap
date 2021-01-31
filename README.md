@@ -9,6 +9,9 @@ We, however have been in the same place as you are now (freshmen or sophomores),
 So, here is a guide to all the resources you will require to properly get introduced to machine learning and artificial intelligence. Try to follow the sequence, and skip whatever you already know.
 
 The list is very selective. There may be a lot of resources out there, but we feel that this list will be the best for you, in terms of content and difficulty.
+
+**A quick tip**: Although this roadmap is well built, we will keep adding updates to make sure the site is upto date with new and awesome content posted daily on the internet. So, make sure to **star** this repository on github, and also add **watch** for "All Activities", just to make sure you dont miss any updates on this.
+
 # Table of Contents:
 - [AI-roadmap](#ai-roadmap)
 - [Motivation](#motivation)
