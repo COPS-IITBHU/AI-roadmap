@@ -33,6 +33,7 @@ The list is very selective. There may be a lot of resources out there, but we fe
   - [2.9. Google Colab](#29-google-colab)
   - [2.10. Gym](#210-gym)
   - [2.11. Stanford’s Courses for NLP, CV, RL](#211-stanfords-courses-for-nlp-cv-rl)
+  - [2.12. Some useful resources for RL](#212-some-useful-resources-for-rl)
   - [2.12. Pytorch Tutorials](#212-pytorch-tutorials)
 
 
@@ -130,5 +131,15 @@ Reinforcement Learning CS234: ​ [Youtube link](https://www.youtube.com/playlis
 Natural Language Processing CS224: ​ [Youtube link](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)​ ​[Course Link](http://web.stanford.edu/class/cs224n/)
 
 **A word of advise**: The same advise goes here: "Don't enforce youself!". But if you are like us, you may find these so interesting that you may feel compelled to complete this. You can pick one, or do all three. But I would suggest you to try atleast the first 2-3 lectures of each, before coming to conclusions. 
+
+## 2.12. Some useful resources for RL
+Understanding the concepts in Reinforcement Learning directly from the course can be somewhat challenging. Hence, we provide some additional resources to help you have a smooth experience.
+
+The following two courses can be helpful. If you find CS234 too hard to follow, you can start with either of the two courses below:
+- https://www.coursera.org/specializations/reinforcement-learning
+- [UCL's course by David Silver](https://www.davidsilver.uk/teaching/);  [youtube link](https://youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
+
+
+
 ## 2.12. Pytorch Tutorials
 You will be doing most of your work in Pytorch (because it is the easiest to use and provides fast prototyping). I recommend pytorch [official docs](https://pytorch.org/tutorials/). After completing the Stanford lectures, it will be easy for you to follow.
